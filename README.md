@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning programming logic
 - 💞️ I’m looking to collaborate on anything I'm interested in
-- 📫 How to reach me: cristianoc7tm
+- 📫 How to reach me: contato@cristianoc7tm.com
 
 <!---
 cristianoc7tm/cristianoc7tm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
